@@ -1,5 +1,5 @@
 # X-Bow BoxBot
-A _functional_ and _wirelessly controlled_ cardboard robot x-bow built for BoxBots 2025. 
+A _functional_ and _wirelessly controlled_ cardboard robot x-bow built for BoxBots 2025 (4th Place).
 
 **The idea** 
 
